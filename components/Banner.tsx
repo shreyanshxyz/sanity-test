@@ -11,8 +11,10 @@ function Banner() {
           is a place to write, read and connect
         </h1>
         <h2>
-          Bruh bruh bruh bruh bruh Bruh bruh bruh bruh bruh Bruh bruh bruh bruh
-          bruh
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente nisi
+          ullam hic adipisci, atque, recusandae magnam maiores reprehenderit aut
+          ex pariatur repudiandae cupiditate? Blanditiis dolore ullam, quasi sed
+          unde aperiam.
         </h2>
       </div>
       <img
